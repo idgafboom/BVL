@@ -1,6 +1,6 @@
 //packageName.as//
 {
-  "version":"3",
+  "version":"4",
   "source":"https://github.com/idgafboom/BVL/releases/download/%2B/bvl_roblox_ahk.zip",
   "compiled":"https://github.com/idgafboom/BVL/releases/download/%2B/bvl_roblox_exe.zip",
   "passwords": [
